@@ -1,10 +1,13 @@
 - 👋 Hi, I’m @ocegik
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python Projects
-- 📫 Twitter/x : @ocegik
-- email: ocegik@gmail.com
-- 😄 Pronouns: He
+- 🚀 Passionate about coding and app development
+- 📱 Currently diving into Kotlin and Android development
+- 🤝 Open to collaborating on exciting projects
+- 📫 Twitter/X: @ocegik
+- 📧 Email: ocegik@gmail.com
+- 😄 Pronouns: He/Him
+
+✨ Building my path to becoming a full-stack app developer!
+
 
 
 <!---
