@@ -4,7 +4,7 @@
 ---
 
 - 🔭 I’m currently diving deep into **Kotlin** and **Android Development**
-- 🌱 Exploring **Java** and **Python** to expand my tech stack
+- 🌱 Working with **Java** and **Python**
 - 🤝 Open to collaborating on exciting and impactful projects
 - 🐦 Twitter/X: [@ocegik](https://twitter.com/ocegik)
 - 💼 LinkedIn: [linkedin.com/in/ocegik](https://www.linkedin.com/in/ocegik)
