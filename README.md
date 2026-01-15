@@ -9,7 +9,6 @@
 - 🐦 Twitter/X: [@ocegik](https://twitter.com/ocegik)
 - 💼 LinkedIn: [linkedin.com/in/ocegik](https://www.linkedin.com/in/ocegik)
 - 📧 Email: **ocegik@gmail.com**
-- ✨ Building my path to becoming a **full-stack app developer**
 
 ---
 
