@@ -3,7 +3,7 @@
 
 ---
 
-- 🔭 I’m currently diving deep into **Kotlin** and **Android Development**
+- 🔭 I’m currently diving deep into **Kotlin** and **Android Development** and **Backend**
 - 🌱 Working with **Java** and **Python**
 - 🤝 Open to collaborating on exciting and impactful projects
 - 🐦 Twitter/X: [@ocegik](https://twitter.com/ocegik)
