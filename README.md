@@ -22,7 +22,7 @@ Currently strengthening my Android + backend stack while shipping projects that 
 
 ### 🛠 Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,python,androidstudio,git,cs,cpp,bash,go,mysql,firebase,spring" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,python,androidstudio,git,cs,cpp,bash,go,mysql,firebase,spring,ktor" />
 </p>
 
 ---
