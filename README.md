@@ -6,8 +6,8 @@
 I build Android applications with a focus on clean architecture, performance, and real-world usability.
 Currently strengthening my Android + backend stack while shipping projects that solve actual problems.
 
-* 🚀 **Primary Focus:** Android Development (Kotlin, Jetpack, Firebase)
-* 🧠 **Also Working With:** Java, Python, Backend fundamentals
+* 🚀 **Primary Focus:** Android Development (Kotlin, Jetpack, Firebase, Backend)
+* 🧠 **Also Working With:** Java, Python
 * 🏗️ **What I Care About:** Writing maintainable code, understanding systems deeply, and building production-ready apps
 * 🤝 **Open To:** Internships, freelance work, and serious collaborations
 
