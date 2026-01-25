@@ -1,23 +1,24 @@
 <h1 align="center">Hi 👋, I'm Tarun Choudhary</h1>
-<h3 align="center">Android Developer | Kotlin • Backend • Scalable Apps</h3>
+<h3 align="center">Android Developer building scalable, real-world apps with Kotlin</h3>
 
 ---
 
-I build Android applications with a focus on clean architecture, performance, and real-world usability.
-Currently strengthening my Android + backend stack while shipping projects that solve actual problems.
+I build Android apps focused on clean architecture, performance, and real-world usability.  
+Right now, I’m deepening my Android + backend skills while shipping projects meant for real users—not tutorials.
 
-* 🚀 **Primary Focus:** Android Development (Kotlin, Jetpack, Firebase, Backend)
-* 🧠 **Also Working With:** Java, Python
-* 🏗️ **What I Care About:** Writing maintainable code, understanding systems deeply, and building production-ready apps
-* 🤝 **Open To:** Internships, freelance work, and serious collaborations
+* **Primary Focus:** Android Development (Kotlin, Jetpack Compose, Firebase, backend)
+* **Also Working With:** Java (legacy + DSA), Python (scripting & tooling)
+* **What I Care About:** Writing maintainable code, understanding systems under the hood, and building apps that survive production—not just demos
+* **Open To:** Internships, freelance work, and long-term collaborations with serious builders
 
 ---
 
-* 🐦 Twitter/X: [@ocegik](https://twitter.com/ocegik)
+* 🐦 Twitter/X: [@ocegik](https://twitter.com/ocegik) 
 * 💼 LinkedIn: [linkedin.com/in/ocegik](https://www.linkedin.com/in/ocegik)
 * 📧 Email: **[ocegik@gmail.com](mailto:ocegik@gmail.com)**
 
 ---
+
 
 
 ### 🛠 Languages & Tools
